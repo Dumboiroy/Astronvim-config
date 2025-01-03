@@ -6,4 +6,4 @@ A template for getting started with [AstroNvim](https://github.com/AstroNvim/Ast
 
 ## 🛠️ Configuration
 
-#### disable mouse in nvim
+1. disable mouse in nvim
